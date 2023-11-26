@@ -8,7 +8,7 @@ function Footer() {
         src="./logo.svg"
         alt="logo"
         width={47}
-        height={44}
+        height={47}
         className="object-contain"
       />
       <div className="flex items-center gap-6">
